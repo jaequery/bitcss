@@ -15,7 +15,7 @@ For anyone that is familiar to Remy.s mit-license repo (github.com/remy/.) it.ll
 For those not familiar, it works like this:
 
 1) fork the css repo (twitter bootstrap)
-2) add your own folder to /users (/users/yourusername/my_bootstrap) with your own copy of the assets (html/images/css) to the repo
+2) add your own folder to /users (/users/yourusername/my_modalbox) with your own copy of the assets (html/images/css) to the repo
 3) send a push notification when you want to contribute back
 
 Considering the small effort it takes to contribute, the amount of benefit the css community as a whole will get is worth it.
