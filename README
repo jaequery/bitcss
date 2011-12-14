@@ -1,1 +1,25 @@
 A repository of Twitter Bootstrap variations
+
+When developing sites, I constantly feel the need to have the ability to quickly browse and choose through hundreds of styles. Like a centralized repository, just for css. Not even just to use them, but even just to serve me as an inspiration.
+
+There are seemingly many single centralized repositories out there, like jquery plugins for js, gems for ruby, and apt for ubuntu, etc. But nothing like it for css.
+
+Currently, CSS are a pain to re-use but when there is a way (like how twitter bootstrap did), it is simply an enjoyable experience to work off of. But currently they are the only ones that exists of that nature and I don.t think we will see any more of these anytime soon.
+
+So I wanted to hear what you guys might think if there was a centralized github repository, where anyone can crowd-source their CSS and html assets.
+
+Anyone can then easily browse through and choose different types of h1, h2, h3, top menus, boxes, containers, and etc . And everyone is encouraged to to create variations (big or small) to support even more varieties and styles back to the community.
+
+For anyone that is familiar to Remy.s mit-license repo (github.com/remy/.) it.ll be like that and it works surprisingly well. There can be some automation done to be better but I don.t think it.s that much of an issue.
+
+For those not familiar, it works like this:
+
+1) fork the css repo (twitter bootstrap)
+2) add your own folder (like /yourusername/my_bootstrap) with your own copy of the assets (html/images/css) to the repo
+3) send a push notification when you want to contribute back
+
+Considering the small effort it takes to contribute, the amount of benefit the css community as a whole will get is worth it.
+
+Basically for starters, small contributions of simple stylable elements like modal box, navigations, forms, and alerts/confirm would be very helpful.
+
+Ideally, I.d like to work with around 2-3 developers for this project to get going. So if you think this project has a potential to be useful, let me know @jaequery.
