@@ -16,7 +16,19 @@ For those not familiar, it works like this:
 
 1) fork the css repo (twitter bootstrap)
 2) add your own contribution folder to where you see fit (/themes/awesome_landingpage)
-3) send a push notification when you want to contribute back
+3) add a manifest.json file that looks like this to the root of your folder:
+
+{
+	"author": "jaequery", 		// name of the author (github handle)
+	"category": "landing page" 	// not set in stone but be as general as you can
+	"description": "jaequery's first theme, a simple landing/coming soon page" // (optional)
+}
+
+For a good example, look at how I did it in /themes/bitcss. You might as well just copy and paste that folder when contributing your first theme.
+
+4) send a push notification when you want to contribute back
+
+
 
 Considering the small effort it takes to contribute, the amount of benefit the css community as a whole will get is worth it.
 
