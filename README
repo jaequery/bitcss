@@ -22,6 +22,7 @@ For those not familiar, it works like this:
 	"author": "jaequery", 		// name of the author (github handle)
 	"category": "landing page" 	// not set in stone but be as general as you can
 	"description": "jaequery's first theme, a simple landing/coming soon page" // (optional)
+	"variant_of": "xxx" // if you are creating a variant, enter the name here (optional)
 }
 
 For a good example, look at how I did it in /themes/bitcss. You might as well just copy and paste that folder when contributing your first theme.
