@@ -1,4 +1,4 @@
-A repository of Twitter Bootstrap variations
+A repository of CSS/html
 
 When developing sites, I constantly feel the need to have the ability to quickly browse and choose through hundreds of styles. Like a centralized repository, just for css. Not even just to use them, but even just to serve me as an inspiration.
 
@@ -15,12 +15,12 @@ For anyone that is familiar to Remy.s mit-license repo (github.com/remy/.) it.ll
 For those not familiar, it works like this:
 
 1) fork the css repo (twitter bootstrap)
-2) add your own folder to /users (/users/yourusername/my_modalbox) with your own copy of the assets (html/images/css) to the repo
+2) add your own contribution folder to where you see fit (/themes/awesome_landingpage)
 3) send a push notification when you want to contribute back
 
 Considering the small effort it takes to contribute, the amount of benefit the css community as a whole will get is worth it.
 
-Basically for starters, small contributions of simple stylable elements like modal box, navigations, forms, and alerts/confirm would be very helpful! 
+Basically for starters, small contributions of simple stylable elements like modal box, navigations, forms, and alerts/confirm would be very helpful!
 
 Next step is to come up with a front-end interface that lets you easily browse through these css snippets, possibly even make it into a SaaS to deliver custom CSS on the fly.
 

@@ -1,0 +1,5 @@
+{
+	"author": "jaequery", 		// name of the author (github handle)
+	"category": "landing page" 	// not set in stone but be as general as you can
+	"description": "jaequery's first theme, a simple landing/coming soon page" // (optional)
+}
